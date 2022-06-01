@@ -1,1 +1,12 @@
-
+<?xml version-"1.0" encoding="UTF-8"?>
+<bug_report>
+      <ID>#123</ID>
+      <summary>CART-Unable to add new item to my cart</summary>
+      <desription> okroshka </desription>
+      <str>Go to link ... Press add item ...press order</str>
+      <environment>OS X 10.15.1</environment>
+      <attachments>www.example.com/sreenshot123</attachments>
+      <expected_result>the card must contain 2 items</expected_result>
+      <actual_result>Cart contaoins only 1 item</actual_result>
+      <prioity> High</priority>
+</bug_report>
